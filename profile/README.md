@@ -4,6 +4,9 @@
 
 StatusTick checks your product from several regions and confirms a failure before anyone is paged. A small agent inside your network checks private services too. It only makes outbound calls, so you don't open any ports.
 
+![Check regions](regions-map.png)
+<sub>Planned check regions. More open during the beta.</sub>
+
 Monitors, alerts, incidents and status pages work together in one place.
 
 We're in closed beta and launching in Q1 2027. Join the beta at **[statustick.com](https://statustick.com)**.
@@ -18,5 +21,3 @@ Our own status: **[status.statustick.com](https://status.statustick.com)**
 ### Follow
 
 [LinkedIn](https://www.linkedin.com/company/statustick) · [X](https://x.com/GetStatusTick)
-
-![Check regions](regions-map.png)
